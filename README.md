@@ -1,4 +1,4 @@
-# IDragon Adeventure game
+# IDragon Adventure game
 move side-to-side and jump to score
 
 # Lamborgini Car Game
